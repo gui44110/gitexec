@@ -3,3 +3,5 @@ just for testing dev&weshare
 this is third file
 
 我在github上直接修改了文件内容，为了了解多人协作开发的git push和git 的作用
+
+我第二次在github上直接修改了文件，这次想通过git rebase的命令进行多人开发协作是的模拟修改
